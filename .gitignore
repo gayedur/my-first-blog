@@ -1,0 +1,11 @@
+*.pyc
+__pycache__
+myenv
+db.sqlite3
+/static
+.DS_Store
+AtomSetup-x64.exe
+Git-2.15.0-64-bit.exe
+Python34
+python-3.4.3.amd64.msi
+.atom/
